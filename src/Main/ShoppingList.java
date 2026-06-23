@@ -1,0 +1,19 @@
+package Main;
+import java.util.ArrayList;
+public class ShoppingList {
+
+    public static void main (String[] args ){
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+}
